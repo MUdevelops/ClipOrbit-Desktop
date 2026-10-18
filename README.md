@@ -42,7 +42,7 @@ Paste a link, analyze it, and download in the best quality the source actually o
 ### 🌌 Splash Screen
 *Full-screen, animated, and driven by real startup steps. No fake progress bars.*
 
-<img src="screenshots/splash.png" alt="Splash screen" width="92%">
+<img src="Screenshots/splash.png" alt="Splash screen" width="92%">
 
 </div>
 
@@ -53,7 +53,7 @@ Paste a link, analyze it, and download in the best quality the source actually o
 ### 🏠 Dashboard
 Paste, analyze, choose quality, download.
 
-<img src="screenshots/dashboard.png" alt="Dashboard">
+<img src="Screenshots/dashboard.png" alt="Dashboard">
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@ Paste, analyze, choose quality, download.
 ### ⬇️ Downloads
 Live progress, speed, ETA, cancel and retry.
 
-<img src="screenshots/downloads.png" alt="Downloads">
+<img src="Screenshots/downloads.png" alt="Downloads">
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ Live progress, speed, ETA, cancel and retry.
 ### 🕒 Queue
 Jobs wait here until a download slot is free.
 
-<img src="screenshots/queue.png" alt="Queue">
+<img src="Screenshots/queue.png" alt="Queue">
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +79,7 @@ Jobs wait here until a download slot is free.
 ### 📚 History
 Searchable, and it survives restarts.
 
-<img src="screenshots/history.png" alt="History">
+<img src="Screenshots/history.png" alt="History">
 
 </td>
 </tr>
@@ -89,7 +89,7 @@ Searchable, and it survives restarts.
 ### ⚙️ Settings
 Folder, quality, concurrency, container, MP3, dependency status.
 
-<img src="screenshots/setting.png" alt="Settings">
+<img src="Screenshots/setting.png" alt="Settings">
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +97,7 @@ Folder, quality, concurrency, container, MP3, dependency status.
 ### ℹ️ About
 Version, credits and usage notice.
 
-<img src="screenshots/about.png" alt="About">
+<img src="Screenshots/about.png" alt="About">
 
 </td>
 </tr>
