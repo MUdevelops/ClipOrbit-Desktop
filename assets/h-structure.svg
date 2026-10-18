@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#34D399"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="bgx" x1="0" x2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<clipPath id="c"><rect width="900" height="64" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="900" height="64" fill="url(#bgx)"/>
+<rect width="7" height="64" fill="url(#g)"/>
+<circle cx="46" cy="30" r="19" fill="none" stroke="url(#g)" stroke-width="2.5"><animate attributeName="r" values="17;21;17" dur="2.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="1;0.45;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><text x="46" y="36" text-anchor="middle" font-size="15" font-weight="700" fill="#34D399">09</text>
+<text x="84" y="39" font-size="25" font-weight="700" fill="#F8FAFC" opacity="0">Project Structure<animate attributeName="opacity" from="0" to="1" dur="0.7s" fill="freeze"/><animate attributeName="x" from="70" to="84" dur="0.7s" fill="freeze"/></text></g>
+<rect x="0" y="60" width="900" height="4" fill="url(#g)" opacity="0.85"/>
+<rect x="-240" y="60" width="240" height="4" fill="url(#sw)"><animate attributeName="x" values="-240;900" dur="3.4s" repeatCount="indefinite"/></rect>
+<circle cx="866" cy="30" r="4" fill="#3B82F6"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="848" cy="30" r="4" fill="#34D399"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="0.5" y="0.5" width="899" height="63" rx="14" fill="none" stroke="#34D399" stroke-opacity="0.35"/>
+</svg>

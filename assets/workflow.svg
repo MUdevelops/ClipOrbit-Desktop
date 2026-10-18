@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+<path d="M 192 75 L 238 75" stroke="#334155" stroke-width="2" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="20;0" dur="1s" repeatCount="indefinite"/></path><path d="M 402 75 L 448 75" stroke="#334155" stroke-width="2" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="20;0" dur="1s" repeatCount="indefinite"/></path><path d="M 612 75 L 658 75" stroke="#334155" stroke-width="2" stroke-dasharray="5 5"><animate attributeName="stroke-dashoffset" values="20;0" dur="1s" repeatCount="indefinite"/></path><g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><rect x="30" y="34" width="160" height="82" rx="14" fill="#111827" stroke="#22D3EE" stroke-opacity="0.8"/>
+<rect x="30" y="34" width="160" height="82" rx="14" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.5;1" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect>
+<circle cx="56" cy="58" r="13" fill="#22D3EE"/><text x="56" y="63" text-anchor="middle" font-size="14" font-weight="800" fill="#06101C">1</text>
+<text x="78" y="63" font-size="19" font-weight="700" fill="#F8FAFC">Paste</text>
+<text x="44" y="96" font-size="13" fill="#94A3B8">link</text></g><g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><rect x="240" y="34" width="160" height="82" rx="14" fill="#111827" stroke="#3B82F6" stroke-opacity="0.8"/>
+<rect x="240" y="34" width="160" height="82" rx="14" fill="#3B82F6" opacity="0"><animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.5;1" dur="4s" begin="1.0s" repeatCount="indefinite"/></rect>
+<circle cx="266" cy="58" r="13" fill="#3B82F6"/><text x="266" y="63" text-anchor="middle" font-size="14" font-weight="800" fill="#06101C">2</text>
+<text x="288" y="63" font-size="19" font-weight="700" fill="#F8FAFC">Analyze</text>
+<text x="254" y="96" font-size="13" fill="#94A3B8">formats</text></g><g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><rect x="450" y="34" width="160" height="82" rx="14" fill="#111827" stroke="#A78BFA" stroke-opacity="0.8"/>
+<rect x="450" y="34" width="160" height="82" rx="14" fill="#A78BFA" opacity="0"><animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.5;1" dur="4s" begin="2.0s" repeatCount="indefinite"/></rect>
+<circle cx="476" cy="58" r="13" fill="#A78BFA"/><text x="476" y="63" text-anchor="middle" font-size="14" font-weight="800" fill="#06101C">3</text>
+<text x="498" y="63" font-size="19" font-weight="700" fill="#F8FAFC">Download</text>
+<text x="464" y="96" font-size="13" fill="#94A3B8">live progress</text></g><g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"><rect x="660" y="34" width="160" height="82" rx="14" fill="#111827" stroke="#34D399" stroke-opacity="0.8"/>
+<rect x="660" y="34" width="160" height="82" rx="14" fill="#34D399" opacity="0"><animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.5;1" dur="4s" begin="3.0s" repeatCount="indefinite"/></rect>
+<circle cx="686" cy="58" r="13" fill="#34D399"/><text x="686" y="63" text-anchor="middle" font-size="14" font-weight="800" fill="#06101C">4</text>
+<text x="708" y="63" font-size="19" font-weight="700" fill="#F8FAFC">History</text>
+<text x="674" y="96" font-size="13" fill="#94A3B8">saved locally</text></g>
+<circle r="6" fill="#E0FBFF"><animateMotion dur="4s" repeatCount="indefinite" path="M 110,75 L 740,75"/></circle>
+</svg>
